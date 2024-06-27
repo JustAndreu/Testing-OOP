@@ -8,6 +8,7 @@ namespace Gmae
 {
     public class Items
     {
-        string[] item = {"Sword", "Shield"};
+        public string[] item = {"Sword", "Shield", "Potion"};
+        public int potion = 1;
     }
 }

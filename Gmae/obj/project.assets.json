@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn\\Code\\Gmae\\Gmae.csproj",
+      "projectUniqueName": "D:\\Learn\\Testing-OOP\\Gmae\\Gmae.csproj",
       "projectName": "Gmae",
-      "projectPath": "D:\\Learn\\Code\\Gmae\\Gmae.csproj",
+      "projectPath": "D:\\Learn\\Testing-OOP\\Gmae\\Gmae.csproj",
       "packagesPath": "C:\\Users\\X\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn\\Code\\Gmae\\obj\\",
+      "outputPath": "D:\\Learn\\Testing-OOP\\Gmae\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
